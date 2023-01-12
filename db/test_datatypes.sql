@@ -1,0 +1,25 @@
+PRAGMA foreign_keys=OFF;
+BEGIN TRANSACTION;
+CREATE TABLE test_datatypes (
+	id INTEGER PRIMARY KEY,
+	val
+);
+INSERT INTO test_datatypes VALUES(1,1);
+INSERT INTO test_datatypes VALUES(2,2);
+INSERT INTO test_datatypes VALUES(3,10.099999999999999644);
+INSERT INTO test_datatypes VALUES(4,20.499999999999999999);
+INSERT INTO test_datatypes VALUES(5,'A');
+INSERT INTO test_datatypes VALUES(6,'B');
+INSERT INTO test_datatypes VALUES(7,NULL);
+INSERT INTO test_datatypes VALUES(8,X'0010');
+INSERT INTO test_datatypes VALUES(9,X'0011');
+COMMIT;
+1|1
+2|2
+3|10.1
+4|20.5
+5|A
+6|B
+7|
+8|
+9|
