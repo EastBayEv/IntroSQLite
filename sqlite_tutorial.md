@@ -7,9 +7,9 @@
 ##  This workshop is divided into 3 sections and 2 challenges:
 1. Install SQLite3
 2. Connecting databases
-3. Basic commands
-Challenge 1: Write a query
-Challenge 2: Import .csv files
+3. Basic commands  
+Challenge 1: Write a query  
+Challenge 2: Import .csv files  
 Challenge 3: Sorting data
 
 ****
