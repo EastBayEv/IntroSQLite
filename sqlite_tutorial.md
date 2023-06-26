@@ -28,7 +28,7 @@ Now, use Bash to create the `sqlite` directory, extract the archive, and lauch S
 2. `cd` onto your Desktop  
 3. `mkdir sqlite`  
 4. `cd sqlite`  
-5. `tar -xzvf ~/Downloads/sqlite-autoconf-3400100.tar.gz`
+5. `tar -xzvf ~/Downloads/sqlite-autoconf-3420000.tar.gz`
 
 > [Read more about tar flags here.](https://www.computerhope.com/unix/utar.htm)
 
