@@ -97,6 +97,8 @@ Learn about the Chinook data. What does an SQL database look like and what are t
 
 Type the command followed by an expression. Use the semicolon to end a code statement. 
 
+> Stuck at the prompt? Also type a semicolon and press return to exit! 
+
 `SELECT 1 + 1;`
 
 `SELECT 10/5, 2*4;`
