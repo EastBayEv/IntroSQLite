@@ -62,7 +62,7 @@ SQLite databases are stored with `.db` database file extension.
 
 1. `cd` into the `sqlite` directory
 2. Create `db` subdirectory inside of sqlite: `mkdir db`
-3. `cd` into your sqlite3/db directory
+3. ~~`cd` into your sqlite3/db directory~~ Make sure you are in your `sqlite` directory
 4. Copy `chinook.zip` from your `Downloads` folder to the `db` folder`cp ~/Downloads/chinook.zip ./db`
 5. Extract chinook.zip to find chinook.db: `unzip db/chinook.zip -d db/`
 6. `ls db` should show both files "chinook.db" and "chinook.zip"
