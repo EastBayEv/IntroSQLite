@@ -133,8 +133,8 @@ Grab only the name, AlbumId, and UnitPrice columns from the "tracks" table, and 
 
 First, communicate a slightly nicer output format:
 
-`.header on
-.mode column`
+`.header on`  
+`.mode column`
 
 Then,
 
